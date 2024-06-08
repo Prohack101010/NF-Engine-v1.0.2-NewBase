@@ -37,22 +37,20 @@
       "version": "2.6.0"
     },
     {
-      "name": "hxcpp",
-      "type": "git",
-      "ref": "main",
-      "url": "https://github.com/VerySecretOrg/hxcpp.git"
+      "name":"hxcpp",
+      "type":"haxelib",
+      "version":"4.2.1"
     },
     {
       "name": "lime",
-      "type": "git",
-      "ref": "main",
-      "url": "https://github.com/VerySecretOrg/lime.git"
+      "type":"haxelib",
+      "version":"7.9.0"
     },
     {
       "name": "linc_luajit",
       "type": "git",
-      "ref": "main",
-      "url": "https://github.com/VerySecretOrg/linc_luajit.git"
+      "ref": "master",
+      "url": "https://github.com/Sirox228/linc_luajit"
     },
     {
       "name": "openfl",
